@@ -8,7 +8,7 @@ Then grab that file from anywhere
 `grab foo`.  
   
 Also works with web resources  
-`grab foo http://mysite.com/foo.tar`  
+`galias foo http://mysite.com/foo.tar`  
 
 ## Commands
 `galias <alias> <file>` Teach grab about a file - accepts relative paths  
